@@ -1,0 +1,10 @@
+D:\Let's create\Warcraft 2\LetsCreateWarcraft2\LetsCreateWarcraft2\obj\x86\Debug\LetsCreateWarcraft2.csprojResolveAssemblyReference.cache
+D:\Let's create\Warcraft 2\LetsCreateWarcraft2\LetsCreateWarcraft2\bin\WindowsGL\Debug\SDL.dll
+D:\Let's create\Warcraft 2\LetsCreateWarcraft2\LetsCreateWarcraft2\bin\WindowsGL\Debug\LetsCreateWarcraft2.exe
+D:\Let's create\Warcraft 2\LetsCreateWarcraft2\LetsCreateWarcraft2\bin\WindowsGL\Debug\LetsCreateWarcraft2.pdb
+D:\Let's create\Warcraft 2\LetsCreateWarcraft2\LetsCreateWarcraft2\bin\WindowsGL\Debug\Lidgren.Network.dll
+D:\Let's create\Warcraft 2\LetsCreateWarcraft2\LetsCreateWarcraft2\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\Let's create\Warcraft 2\LetsCreateWarcraft2\LetsCreateWarcraft2\bin\WindowsGL\Debug\OpenTK.dll
+D:\Let's create\Warcraft 2\LetsCreateWarcraft2\LetsCreateWarcraft2\bin\WindowsGL\Debug\Tao.Sdl.dll
+D:\Let's create\Warcraft 2\LetsCreateWarcraft2\LetsCreateWarcraft2\obj\x86\Debug\LetsCreateWarcraft2.exe
+D:\Let's create\Warcraft 2\LetsCreateWarcraft2\LetsCreateWarcraft2\obj\x86\Debug\LetsCreateWarcraft2.pdb
