@@ -1,16 +1,8 @@
-﻿#region Using Statements
-using System;
-using System.Collections.Generic;
-using LetsCreateWarcraft2.Common;
+﻿using LetsCreateWarcraft2.Common;
 using LetsCreateWarcraft2.Manager;
-using LetsCreateWarcraft2.Map;
 using Microsoft.Xna.Framework;
-using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
-using Microsoft.Xna.Framework.Storage;
-using Microsoft.Xna.Framework.GamerServices;
-#endregion
 
 namespace LetsCreateWarcraft2
 {
@@ -44,6 +36,7 @@ namespace LetsCreateWarcraft2
             _managerMouse = new ManagerMouse();
             _managerTiles = new ManagerTiles();
             _managerUnits = new ManagerUnits(_managerMouse,_managerTiles);
+            IsMouseVisible = true;
             base.Initialize();
         }
 

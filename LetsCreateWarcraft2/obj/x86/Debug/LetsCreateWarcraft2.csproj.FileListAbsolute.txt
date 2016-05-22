@@ -8,3 +8,17 @@ D:\Let's create\Warcraft 2\LetsCreateWarcraft2\LetsCreateWarcraft2\bin\WindowsGL
 D:\Let's create\Warcraft 2\LetsCreateWarcraft2\LetsCreateWarcraft2\bin\WindowsGL\Debug\Tao.Sdl.dll
 D:\Let's create\Warcraft 2\LetsCreateWarcraft2\LetsCreateWarcraft2\obj\x86\Debug\LetsCreateWarcraft2.exe
 D:\Let's create\Warcraft 2\LetsCreateWarcraft2\LetsCreateWarcraft2\obj\x86\Debug\LetsCreateWarcraft2.pdb
+C:\Users\Mille\Documents\test\SpeedCodingWarcraft2\LetsCreateWarcraft2\obj\x86\Debug\LetsCreateWarcraft2.exe
+C:\Users\Mille\Documents\test\SpeedCodingWarcraft2\LetsCreateWarcraft2\obj\x86\Debug\LetsCreateWarcraft2.pdb
+C:\Users\Mille\Documents\test\SpeedCodingWarcraft2\LetsCreateWarcraft2\bin\WindowsGL\Debug\SDL.dll
+C:\Users\Mille\Documents\test\SpeedCodingWarcraft2\LetsCreateWarcraft2\bin\WindowsGL\Debug\LetsCreateWarcraft2.exe
+C:\Users\Mille\Documents\test\SpeedCodingWarcraft2\LetsCreateWarcraft2\bin\WindowsGL\Debug\LetsCreateWarcraft2.pdb
+C:\Users\Mille\Documents\test\SpeedCodingWarcraft2\LetsCreateWarcraft2\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Mille\Documents\test\SpeedCodingWarcraft2\LetsCreateWarcraft2\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Mille\Documents\test\SpeedCodingWarcraft2\LetsCreateWarcraft2\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Mille\Documents\test\SpeedCodingWarcraft2\LetsCreateWarcraft2\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Mille\Documents\test\SpeedCodingWarcraft2\LetsCreateWarcraft2\obj\x86\Debug\LetsCreateWarcraft2.csprojResolveAssemblyReference.cache
+C:\Users\Mille\Documents\test\SpeedCodingWarcraft2\LetsCreateWarcraft2\bin\WindowsGL\Debug\Content\select2.xnb
+C:\Users\Mille\Documents\test\SpeedCodingWarcraft2\LetsCreateWarcraft2\bin\WindowsGL\Debug\Content\selection.xnb
+C:\Users\Mille\Documents\test\SpeedCodingWarcraft2\LetsCreateWarcraft2\bin\WindowsGL\Debug\Content\tileset.xnb
+C:\Users\Mille\Documents\test\SpeedCodingWarcraft2\LetsCreateWarcraft2\bin\WindowsGL\Debug\Content\worker.xnb
